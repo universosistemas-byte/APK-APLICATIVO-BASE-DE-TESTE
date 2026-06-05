@@ -1,0 +1,6 @@
+{
+  "name": "Pratika",
+  "description": "O aplicativo oficial do sistema Pratika PDV para gerenciar suas vendas de forma rápida e fluída.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pratika</string>
+    <string name="error_offline_title">Sem Conexão com a Internet</string>
+    <string name="error_offline_desc">O Pratika precisa de uma conexão ativa. Verifique sua rede e tente novamente.</string>
+    <string name="btn_retry">Tentar Novamente</string>
+    <string name="back_to_exit">Pressione voltar novamente para sair</string>
+</resources>
